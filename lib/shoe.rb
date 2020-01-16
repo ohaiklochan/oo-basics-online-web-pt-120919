@@ -34,11 +34,15 @@ class Shoe
     @material
   end
   
-  def condition
-    puts "Like New"
+  def condition=(condition)
+    @condition
   end
-    
+  
+  def condition
+    @condition
+  end
+  
 end
 
 Shoe.new("Adidas")
-
+shoe.condition = "Like New"
