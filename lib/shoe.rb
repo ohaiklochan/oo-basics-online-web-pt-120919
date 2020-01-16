@@ -38,7 +38,6 @@ class Shoe
     puts "Like New"
   end
     
-  
 end
 
 Shoe.new("Adidas")
