@@ -42,6 +42,10 @@ class Shoe
     @condition
   end
   
+  def repair
+    puts "The shoe has been repaired."
+  end
+  
 end
 
 Shoe.new("Adidas")
