@@ -39,7 +39,7 @@ class Shoe
   end
   
   def condition
-    puts "Like New"
+    @condition
   end
   
 end
