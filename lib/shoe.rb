@@ -45,4 +45,4 @@ class Shoe
 end
 
 Shoe.new("Adidas")
-shoe.condition = "Like New"
+Shoe.condition = "Like New"
