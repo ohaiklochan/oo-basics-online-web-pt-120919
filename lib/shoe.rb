@@ -46,6 +46,8 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
+  puts "new"
+  
 end
 
 Shoe.new("Adidas")
