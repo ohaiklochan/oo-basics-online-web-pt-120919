@@ -12,4 +12,4 @@ class Shoe
   
 end
 
-adidas = Shoe.new
+Shoe.new("Adidas")
